@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Yasser Hadli 
 
-<!--
-**Yasser-Hadli/Yasser-Hadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a 4th-year Engineering student specializing in **Artificial Intelligence and Big Data** at EMSI Casablanca.
 
-Here are some ideas to get you started:
+ I am particularly interested in **Generative AI, Retrieval-Augmented Generation, Machine Learning, Deep Learning, and intelligent software systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+* Building a hybrid **Graph and Vector RAG system** for intelligent document retrieval
+* Developing an end-to-end **Machine Learning project**, from data preprocessing to model evaluation
+* Improving my skills in AI system design, APIs, model deployment, and software engineering
+
+## Technical Skills
+
+**Languages:** Python, Java, SQL
+**AI & Machine Learning:** Scikit-learn, PyTorch, Pandas, NumPy
+**Generative AI:** RAG, LLMs, embeddings, semantic search
+**Backend & Tools:** FastAPI, Git, GitHub, Docker
+**Databases:** PostgreSQL, Neo4j, vector databases
+
+## Featured Projects
+
+My main Artificial Intelligence and Machine Learning projects will be available here with complete documentation, source code, architecture diagrams, and reproducible installation instructions.
+
+## Career Interests
+
+I am interested in internships and professional opportunities related to:
+
+* Artificial Intelligence
+* Generative AI and RAG systems
+* Machine Learning and Deep Learning
+* Intelligent backend systems
+
+## Contact
+
+* LinkedIn: www.linkedin.com/in/yasser-hadli-a30723367
+* GitHub: https://github.com/Yasser-Hadli
