@@ -1,6 +1,6 @@
 # Hi, I'm Yasser Hadli 
 
- I am a 4th-year Engineering student specializing in **Artificial Intelligence and Big Data** at EMSI Casablanca.
+ I am a 5th-year Engineering student specializing in **Artificial Intelligence and Big Data** at EMSI Casablanca.
 
  I am particularly interested in **Generative AI, Retrieval-Augmented Generation, Machine Learning, Deep Learning, and intelligent software systems**.
 
